@@ -1,6 +1,5 @@
-# monty2.py
+# MontyHallProblem.py
 # Raunak Anand
-# ECS 36A Winter 2019
 # Simulation of the Monty Hall Problem
 # Calculating probability
 # based on whether player switches doors or not
